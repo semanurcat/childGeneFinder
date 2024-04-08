@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674587568 source:c:\users\sema\desktop\c\genetik2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
